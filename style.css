@@ -1,0 +1,40 @@
+* {
+  font: "Helvetica", "Arial", "san-serif";
+}
+body {
+  padding: 0 30px 0 30px;
+}
+header {
+  height: 100px;
+  border-bottom-style: solid;
+  border-bottom: 1px;
+  border-bottom-color: #CCC;
+}
+header nav {
+  float: right;
+}
+nav ul {
+  padding: 0;
+  margin: 40px 0 0 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: #0056b3
+}
+h3#header {
+  float: left;
+  font-size: 30px;
+}
+#header a {
+  text-decoration: none;
+  color: #868e96;
+}
